@@ -26,7 +26,7 @@ SECRET_KEY = config('SECRET_KEY', default='build-time-placeholder-key')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = config('ALLOWED_HOSTS', default='localhost,127.0.0.1').split(',')       # updated for production purpose
 
 
 # Application definition
