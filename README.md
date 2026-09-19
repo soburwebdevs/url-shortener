@@ -4,7 +4,7 @@ A backend REST API that shortens long URLs into short, shareable links — built
 
 ## Live Demo
 
-🔗 [https://url-shortener-azca.onrender.com/](https://url-shortener-azca.onrender.com/)
+🔗 [https://url-shortener-1-qrvz.onrender.com/](https://url-shortener-1-qrvz.onrender.com/)
 
 *Note: hosted on Render's free tier — the app may take 30-60 seconds to wake up if it's been idle.*
 
